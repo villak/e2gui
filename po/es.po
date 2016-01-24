@@ -16372,3 +16372,6 @@ msgid ""
 msgstr ""
 "El paquete se instalará en tu %s %s\n"
 " Preparado para instalar %s ?"
+
+msgid "Please wait whilst feeds state is checked..."
+msgstr "Espera hasta que se verifique el estado de las fuentes."
